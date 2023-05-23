@@ -7,6 +7,9 @@ name = "pypi"
 requests = "*"
 pandas = "*"
 pandas-ta = "*"
+openai = "*"
+langchain = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
